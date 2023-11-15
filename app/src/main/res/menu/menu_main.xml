@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/black"
+        android:title="black" />
+    <item
+        android:id="@+id/white"
+        android:title="white" />
+    <item
+        android:id="@+id/aqua"
+        android:title="aqua" />
+    <item
+        android:id="@+id/teal"
+        android:title="teal" />
+    <item
+        android:id="@+id/fuchsia"
+        android:title="fuchsia" />
+    <item
+        android:id="@+id/red"
+        android:title="red" />
+    <item
+        android:id="@+id/olive"
+        android:title="olive" />
+</menu>
